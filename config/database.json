@@ -1,0 +1,5 @@
+{
+    "user": "abagu",
+    "password": "abagu",
+    "dsn": "dbi:mysql:pager"
+}
